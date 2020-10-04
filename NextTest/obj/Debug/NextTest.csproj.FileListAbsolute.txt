@@ -1,0 +1,10 @@
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\bin\Debug\NextTest.exe.config
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\bin\Debug\NextTest.exe
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\bin\Debug\NextTest.pdb
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Debug\NextTest.csprojAssemblyReference.cache
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Debug\NextTest.Properties.Resources.resources
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Debug\NextTest.csproj.GenerateResource.cache
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Debug\NextTest.exe
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Debug\NextTest.pdb
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Debug\NetworkManager.Form1.resources
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Debug\NextTest.csproj.Fody.CopyLocal.cache

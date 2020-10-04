@@ -1,0 +1,20 @@
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.pdb
+C:\Users\Johnny\Documents\_Visual Studio Projects\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.csprojResolveAssemblyReference.cache
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.csproj.CoreCompileInputs.cache
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+D:\Projekt\CodeProject\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.pdb
+C:\Users\yakir.lavi\Downloads\ToggleSwitch\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+C:\Users\yakir.lavi\Downloads\ToggleSwitch\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+C:\Users\yakir.lavi\Downloads\ToggleSwitch\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.csprojAssemblyReference.cache
+C:\Users\yakir.lavi\Downloads\ToggleSwitch\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+C:\Users\yakir.lavi\Downloads\ToggleSwitch\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.pdb
+C:\Users\yakir.lavi\source\repos\NextTest\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.dll
+C:\Users\yakir.lavi\source\repos\NextTest\ToggleSwitch\ToggleSwitch\bin\Debug\ToggleSwitch.pdb
+C:\Users\yakir.lavi\source\repos\NextTest\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.csprojAssemblyReference.cache
+C:\Users\yakir.lavi\source\repos\NextTest\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.dll
+C:\Users\yakir.lavi\source\repos\NextTest\ToggleSwitch\ToggleSwitch\obj\Debug\ToggleSwitch.pdb

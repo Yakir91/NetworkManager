@@ -1,0 +1,12 @@
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\bin\Release\ToggleSwitch.dll
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\bin\Release\ToggleSwitch.pdb
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Release\Network Manager.csprojAssemblyReference.cache
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Release\NextTest.Form1.resources
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Release\NextTest.Properties.Resources.resources
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Release\Network Manager.csproj.GenerateResource.cache
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Release\Network Manager.csproj.CopyComplete
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\bin\Release\Network Manager.exe.config
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\bin\Release\Network Manager.exe
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\bin\Release\Network Manager.pdb
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Release\Network Manager.exe
+C:\Users\yakir.lavi\source\repos\NextTest\NextTest\obj\Release\Network Manager.pdb
