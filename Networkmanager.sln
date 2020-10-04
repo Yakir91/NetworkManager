@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextTest", "NextTest\NextTest.csproj", "{78F71735-5C48-4FD1-B3EF-2A7889CC6A7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleSwitch", "ToggleSwitch\ToggleSwitch\ToggleSwitch.csproj", "{49B88FFA-F02C-4709-BA65-9F8996444ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F71735-5C48-4FD1-B3EF-2A7889CC6A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F71735-5C48-4FD1-B3EF-2A7889CC6A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F71735-5C48-4FD1-B3EF-2A7889CC6A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F71735-5C48-4FD1-B3EF-2A7889CC6A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4995364E-6A97-4076-B013-683344AFE3D6}
+	EndGlobalSection
+EndGlobal
